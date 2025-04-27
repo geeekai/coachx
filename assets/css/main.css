@@ -19,7 +19,7 @@
 :root { 
   --background-color: #ffffff;
   --default-color: #212529;
-  --heading-color: #5a2b18; /* deeper orange-brown for headings */
+  --heading-color: #000000; /* deeper orange-brown for headings */
   --accent-color: #e76136; /* primary orange */
   --surface-color: #ffffff;
   --contrast-color: #ffffff;
